@@ -9,4 +9,5 @@ What questions do you have?  Add them here!
 * What are the differences between Salt, Ansible, Puppet, and Chef
  * Not covered in the class today, but if time at the end or in the breaks...
 * Is Chef up to speed with RHEL 7, systemd, etc.?
+ * [Client yes](https://github.com/opscode/chef/blob/master/lib/chef/provider/service/systemd.rb), Chef Server no. 
 * What is a DSC script (dsc_script)?
