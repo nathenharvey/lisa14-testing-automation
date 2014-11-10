@@ -11,3 +11,8 @@ What questions do you have?  Add them here!
 * Is Chef up to speed with RHEL 7, systemd, etc.?
  * [Client yes](https://github.com/opscode/chef/blob/master/lib/chef/provider/service/systemd.rb), Chef Server no. 
 * What is a DSC script (dsc_script)?
+* If I put ruby code in the recipe will it run it?
+ * Yes!
+* Is the template configured based on system?
+
+ 
