@@ -6,3 +6,5 @@ What questions do you have?  Add them here!
  * A PR is a pull request. Check out more information on [GitHub](https://help.github.com/articles/using-pull-requests/).
 * Do you use code reviews with Chef?
  * Yes, code reviews should entirely be part of your workflow for committing infrastructure as code into your version control.
+* What are the differences between Salt, Ansible, Puppet, and Chef
+ * Not covered in the class today, but if time at the end or in the breaks...
