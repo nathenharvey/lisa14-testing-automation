@@ -9,3 +9,4 @@ What questions do you have?  Add them here!
 * What are the differences between Salt, Ansible, Puppet, and Chef
  * Not covered in the class today, but if time at the end or in the breaks...
 * Is Chef up to speed with RHEL 7, systemd, etc.?
+* What is a DSC script (dsc_script)?
